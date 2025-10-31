@@ -27,7 +27,7 @@ This skill covers:
 
 ```bash
 # Clone this repository to your Claude skills directory
-git clone https://github.com/yourusername/claude-code-capabilities.git ~/.claude/skills/claude-code-capabilities
+git clone https://github.com/ebeloded/claude-code-capabilities.git ~/.claude/skills/claude-code-capabilities
 ```
 
 Once installed, Claude will automatically use this skill when you ask questions about Claude Code capabilities.
